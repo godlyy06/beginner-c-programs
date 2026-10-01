@@ -13,4 +13,15 @@ The programs in this repository are focused on practicing programming fundamenta
 - Functions
 - Basic algorithms
 
+## Programs
+
+### Temperature Converter
+Converts a temperature from Celsius to Fahrenheit using user input.
+
+### Calculator
+A simple calculator for basic arithmetic operations. (Coming soon) 
+
+### ...
+
 > This repository will grow as I continue learning C.
+

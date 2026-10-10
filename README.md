@@ -18,8 +18,11 @@ The programs in this repository are focused on practicing programming fundamenta
 ### Temperature Converter
 Converts a temperature from Celsius to Fahrenheit using user input.
 
-### Calculator
-A simple calculator for basic arithmetic operations. (Coming soon) 
+### Even or Odd
+Checks if a number is Even or Odd. Simple use of the If-Statement in C. 
+
+### Rock, Paper, Scissors
+Simulates a rock, paper and scissors game using simple Conditional Statements and Logic Gates. 
 
 ### ...
 

@@ -24,7 +24,8 @@ Checks if a number is Even or Odd. Simple use of the If-Statement in C.
 ### Rock, Paper, Scissors
 Simulates a rock, paper and scissors game using simple Conditional Statements and Logic Gates. 
 
-### ...
+### Calculator
+Does simple arithmetic calculations with user inputs. 
 
 > This repository will grow as I continue learning C.
 

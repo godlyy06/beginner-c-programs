@@ -27,5 +27,8 @@ Simulates a rock, paper and scissors game using simple Conditional Statements an
 ### Calculator
 Does simple arithmetic calculations with user inputs. 
 
+### Smart Garden Menu
+Console-Menu that can manage devices and user can change devices and interacts with the menu.
+
 > This repository will grow as I continue learning C.
 

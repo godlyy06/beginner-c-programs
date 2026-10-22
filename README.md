@@ -30,5 +30,8 @@ Does simple arithmetic calculations with user inputs.
 ### Smart Garden Menu
 Console-Menu that can manage devices and user can change devices and interacts with the menu.
 
+### Random Temperature
+This C program generates random daily temperatures for a week and stores them in an array. It then calculates and displays the average temperature for the entire seven-day period.
+
 > This repository will grow as I continue learning C.
 

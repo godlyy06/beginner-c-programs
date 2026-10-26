@@ -33,5 +33,8 @@ Console-Menu that can manage devices and user can change devices and interacts w
 ### Random Temperature
 This C program generates random daily temperatures for a week and stores them in an array. It then calculates and displays the average temperature for the entire seven-day period.
 
+### Using-Arrays
+This Directory contains programs where you can see the use case of strings & arrays in C and how  outputs of arrays are written.
+
 > This repository will grow as I continue learning C.
 

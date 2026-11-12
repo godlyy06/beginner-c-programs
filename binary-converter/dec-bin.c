@@ -14,7 +14,7 @@ int main(void){
     printf("Enter a Number: ");
     scanf("%d",&x);
 
-    // CheckInput Funktion Einbauen
+    check_input(x);
     decimal_to_binary(x);
 
     return 0;
@@ -38,8 +38,9 @@ void decimal_to_binary(int decimal) {
    
 }
 
-/*
 bool check_input(int decimal) {
-
+    if(decimal<0){
+        printf("Enter a positive Decimal Number!");
+    } 
+    return decimal;
 }
-*/

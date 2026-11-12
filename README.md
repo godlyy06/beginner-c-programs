@@ -36,5 +36,8 @@ This C program generates random daily temperatures for a week and stores them in
 ### Using-Arrays
 This Directory contains programs where you can see the use case of strings & arrays in C and how  outputs of arrays are written. It contains simple programs, which I did within my coursework in my cs module "programming". 
 
+### Binary Converter
+User uses console and puts a decimal of choice to convert to binary number. Programm uses functions to call the converting rule. 
+
 > This repository will grow as I continue learning C.
 
